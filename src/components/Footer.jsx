@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className='desktop max-md:hidden'>
                     <div className="first-content grid grid-cols-9">
                         <span className='col-start-2'>
-                            <img src="/public/img/logo.png" alt="" />
+                            <img src="/img/logo.png" alt="" />
                         </span>
                         <span className='col-start-5 col-end-7 block pt-15 font-medium'>
                             WHAT WE DO
@@ -50,19 +50,19 @@ export default function Footer() {
                     <div className="third-content grid grid-cols-9 mt-10">
                         <div className='col-start-2 col-span-3 flex max-lg:col-span-12 max-lg:mx-auto gap-3 ml-8'>
                             <span>
-                                <img src="/public/img/brandico_facebook-rect.png" alt="" />
+                                <img src="/img/brandico_facebook-rect.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/brandico_linkedin-rect.png" alt="" />
+                                <img src="/img/brandico_linkedin-rect.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/akar-icons_twitter-fill.png" alt="" />
+                                <img src="/img/akar-icons_twitter-fill.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/ant-design_youtube-filled.png" alt="" />
+                                <img src="/img/ant-design_youtube-filled.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/bx_bxl-instagram.png" alt="" />
+                                <img src="/img/bx_bxl-instagram.png" alt="" />
                             </span>
                         </div>
                         <div className='col-span-5 max-lg:col-span-12 max-lg:mt-10'>
@@ -89,7 +89,7 @@ export default function Footer() {
                 {/* MOBILE  */}
                 <div className='mobile md:invisible'>
                     <span className='block w-fit mx-auto mt-10'>
-                        <img src="../../public/img/logo.png" alt="" />
+                        <img src="../../img/logo.png" alt="" />
                     </span>
                     <span className='block w-fit mx-auto mt-10'>
                         <span className='block text-center font-medium'>landinteriors@gmail.com</span>
@@ -98,19 +98,19 @@ export default function Footer() {
                     <span className='block w-fit mx-auto mt-10'>
                         <div className='flex gap-5'>
                             <span>
-                                <img src="/public/img/brandico_facebook-rect.png" alt="" />
+                                <img src="/img/brandico_facebook-rect.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/brandico_linkedin-rect.png" alt="" />
+                                <img src="/img/brandico_linkedin-rect.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/akar-icons_twitter-fill.png" alt="" />
+                                <img src="/img/akar-icons_twitter-fill.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/ant-design_youtube-filled.png" alt="" />
+                                <img src="/img/ant-design_youtube-filled.png" alt="" />
                             </span>
                             <span>
-                                <img src="/public/img/bx_bxl-instagram.png" alt="" />
+                                <img src="/img/bx_bxl-instagram.png" alt="" />
                             </span>
                         </div>
                     </span>

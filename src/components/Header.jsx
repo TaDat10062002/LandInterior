@@ -6,7 +6,7 @@ export default function Header() {
             <div className='bg-[#F8F8F8] py-15 pt-8 relative'>
                 <div className='grid grid-cols-5 px-2'>
                     <div className='col-span-1'>
-                        <img src="../../public/img/logo.png" className='cursor-pointer' alt="" />
+                        <img src="../../img/logo.png" className='cursor-pointer' alt="" />
                     </div>
                     <div className='above-header col-span-4 pt-7 py-10'>
                         <div className='flex justify-end gap-20 px-10'>

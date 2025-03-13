@@ -5,7 +5,7 @@ export default function Section4() {
     return (
         <>
             <section className='section-4 relative top-40 max-xl:top-80 max-md:top-265'>
-                <img src="/public/img/Rectangle 25.png" alt="" />
+                <img src="/img/Rectangle 25.png" alt="" />
                 <div className='main absolute top-0 right-0 left-0'>
                     <span className='lg:invisible font-medium text-2xl absolute left-35 top-10'>Our projects</span>
                     <div className='grid grid-cols-12 p-15 mt-7'>
@@ -13,18 +13,18 @@ export default function Section4() {
                             <div className='grid grid-cols-8 lg:gap-5 max-lg:gap-3'>
                                 <div className='col-span-4 max-lg:mx-auto max-lg:pl-20'>
                                     <div>
-                                        <img className='rounded-2xl' src="/public/img/image 11.png" alt="" />
+                                        <img className='rounded-2xl' src="/img/image 11.png" alt="" />
                                     </div>
                                     <div className='mt-5'>
-                                        <img className='rounded-2xl' src="/public/img/image 19.png" alt="" />
+                                        <img className='rounded-2xl' src="/img/image 19.png" alt="" />
                                     </div>
                                 </div>
                                 <div className='col-span-4 max-lg:mx-auto  max-lg:pr-20'>
                                     <div>
-                                        <img className='rounded-2xl' src="/public/img/image 18.png" alt="" />
+                                        <img className='rounded-2xl' src="/img/image 18.png" alt="" />
                                     </div>
                                     <div className='mt-5'>
-                                        <img className='rounded-2xl' src="/public/img/image 17.png" alt="" />
+                                        <img className='rounded-2xl' src="/img/image 17.png" alt="" />
                                     </div>
                                 </div>
                             </div>

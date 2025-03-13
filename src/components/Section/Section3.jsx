@@ -4,7 +4,7 @@ export default function Section3() {
     return (
         <>
             <section className='section-3 relative'>
-                <img src="/public/img/Rectangle 12.png" alt="" />
+                <img src="/img/Rectangle 12.png" alt="" />
                 <div className='main'>
                     <div className='posters grid grid-cols-10 text-center absolute'>
                         <div className='dumbElement lg:col-span-3 md:col-span-3'>
@@ -34,26 +34,26 @@ export default function Section3() {
                             </div>
                         </div>
                         <div className='rightPoster lg:col-span-7 md:col-span-7 col-span-10'>
-                            <img src="/public/img/image 16.png" alt="" />
+                            <img src="/img/image 16.png" alt="" />
                         </div>
                     </div>
                     <div className='bottomPoster absolute top-7/10 w-1/1'>
                         <h1 className='text-center font-medium text-3xl'>What we do?</h1>
                         <div className='innerBottomPoster container max-w-screen-xl mx-auto grid grid-cols-12 gap-x-10 mt-10 px-5 text-center'>
                             <div className='lg:col-span-3 md:col-span-3 col-span-6'>
-                                <img src="/public/img/image 3.png" alt="" />
+                                <img src="/img/image 3.png" alt="" />
                                 <span className='text-1xl font-[700] block mt-5 mb-5 text-[#4B2A63]'>Modular Kitchen</span>
                             </div>
                             <div className='lg:col-span-3 md:col-span-3 col-span-6'>
-                                <img src="/public/img/image 4.png" alt="" />
+                                <img src="/img/image 4.png" alt="" />
                                 <span className='text-1xl font-[700] block mt-5 mb-5 text-[#4B2A63]'>Bedroom</span>
                             </div>
                             <div className='lg:col-span-3 md:col-span-3 col-span-6'>
-                                <img src="/public/img/image 8.png" alt="" />
+                                <img src="/img/image 8.png" alt="" />
                                 <span className='text-1xl font-[700] block mt-5 mb-5 text-[#4B2A63]'>Living room</span>
                             </div>
                             <div className='lg:col-span-3 md:col-span-3 col-span-6'>
-                                <img src="/public/img/image 9.png" alt="" />
+                                <img src="/img/image 9.png" alt="" />
                                 <span className='text-1xl font-[700] block mt-5 mb-5 text-[#4B2A63]'>Home office</span>
                             </div>
                         </div>

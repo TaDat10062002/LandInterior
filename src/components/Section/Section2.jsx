@@ -11,13 +11,13 @@ export default function Section2() {
                 <div className="flex justify-around mt-20">
                     <div className='relative'>
                         <div className='absolute translate-y-5 translate-x-5 text-1xl font-medium'>50</div>
-                        <img src="/public/img/Vector.png" width={'80%'} alt="" />
+                        <img src="/img/Vector.png" width={'80%'} alt="" />
                     </div>
                     <div>
-                        <img src="/public/img/bx_bx-home-smile.png" width={'80%'} alt="" />
+                        <img src="/img/bx_bx-home-smile.png" width={'80%'} alt="" />
                     </div>
                     <div>
-                        <img src="/public/img/teenyicons_certificate-outline.png" width={'80%'} alt="" />
+                        <img src="/img/teenyicons_certificate-outline.png" width={'80%'} alt="" />
                     </div>
                 </div>
                 <div className="flex justify-around text-center">

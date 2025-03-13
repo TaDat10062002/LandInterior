@@ -12,14 +12,14 @@ export default function Section5() {
             <div className='grid grid-cols-12 gap-5 md:ml-35'>
               <div className='col-span-5'>
                 <div>
-                  <img src="/public/img/image 24.png" width={'313'} height={'331'} alt="" />
+                  <img src="/img/image 24.png" width={'313'} height={'331'} alt="" />
                 </div>
                 <div className='mt-5'>
-                  <img src="/public/img/image 25.png" width={'313'} height={'331'} alt="" />
+                  <img src="/img/image 25.png" width={'313'} height={'331'} alt="" />
                 </div>
               </div>
               <div className='col-span-7'>
-                <img src="/public/img/image 23.png" width={'452'} height={'690'} alt="" />
+                <img src="/img/image 23.png" width={'452'} height={'690'} alt="" />
               </div>
             </div>
           </div>
@@ -27,14 +27,14 @@ export default function Section5() {
             <div className='grid grid-cols-12 gap-5 md:ml-5 md:mr-29'>
               <div className='col-span-5'>
                 <div>
-                  <img src="/public/img/image 26.png" width={'313'} height={'331'} alt="" />
+                  <img src="/img/image 26.png" width={'313'} height={'331'} alt="" />
                 </div>
                 <div>
-                  <img className='mt-5' src="/public/img/image 27.png" width={'313'} height={'331px'} alt="" />
+                  <img className='mt-5' src="/img/image 27.png" width={'313'} height={'331px'} alt="" />
                 </div>
               </div>
               <div className='col-span-7'>
-                <img src="/public/img/image 28.png" width={'452'} height={'690'} alt="" />
+                <img src="/img/image 28.png" width={'452'} height={'690'} alt="" />
               </div>
             </div>
           </div>

@@ -27,7 +27,7 @@ export default function Section6() {
                     </div>
                     <div className='absolute left-1/2 -translate-x-1/2 top-45 z-1 max-lg:hidden'>
                         <span>
-                            <img className='block mx-auto w-30' src="/public/img/Ellipse 30.png" alt="" />
+                            <img className='block mx-auto w-30' src="/img/Ellipse 30.png" alt="" />
                         </span>
                         <div className='brief-content bg-[#ffffff] rounded-lg relative -z-1 -top-15 w-2/3 mx-auto'>
                             <span className='block pt-18 text-center px-18'>
